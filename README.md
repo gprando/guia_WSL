@@ -6,3 +6,6 @@
 2. [Instalando ZSH](WSL/Instalando%20ZSH.md)  :cd:  :keyboard:
 3. [Configurando workspace](WSL/Configurando%20workspace.md) :desktop_computer: :floppy_disk:
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
