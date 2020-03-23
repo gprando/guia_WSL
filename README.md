@@ -1,4 +1,5 @@
-![](https://images.unsplash.com/photo-1547394765-185e1e68f34e?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600)
+<img src="https://images.unsplash.com/photo-1547394765-185e1e68f34e?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600" alt="tech" style="zoom:25%;" height="225"/>
+
 
 # WSL :woman_technologist:
 
