@@ -1,2 +1,7 @@
-# guia_WSL
-guia de instalação Debian 10 no WSL do Windows, configuração do ZSH e programas de dev
+# WSL
+
+[Instalar e configurar wsl com debian 10 no Windows 10](WSL/Instalar%20e%20configurar%20wsl%20com%20debian%2010%20no%20Windows.md)
+
+[Instalando ZSH](WSL/Instalando%20ZSH.md)
+
+[Configurando workspace](WSL/Configurando%20workspace.md)
